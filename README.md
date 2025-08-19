@@ -57,7 +57,8 @@ Faciliter la prise de décision pour les agriculteurs en leur offrant un outil l
 
     - Interface responsive et agréable
 
-```👩‍💻 À propos de la développeuse
+```
+👩‍💻 À propos de la développeuse
 
 Projet réalisé par Hadje, développeuse frontend junior passionnée par les solutions numériques à impact local. Spécialisée en HTML, CSS, JavaScript, Node.js, MongoDB, et en pleine exploration du design UI/UX.
 
