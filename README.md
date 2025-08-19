@@ -1,4 +1,4 @@
-<img width="1850" height="955" alt="Capture d’écran du 2025-08-19 11-55-49" src="https://github.com/user-attachments/assets/764a3e20-084f-4204-8a34-d82e94561140" />#  Calculateur de Marge Agricole
+#  Calculateur de Marge Agricole
 
 Ce projet est une application web simple et intuitive permettant aux agriculteurs de **calculer automatiquement leur marge bénéficiaire** en fonction de leurs coûts de production et du prix de vente de leurs produits.
 
